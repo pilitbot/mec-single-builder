@@ -1,0 +1,3225 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Elementor Single Builder for MEC\n"
+"POT-Creation-Date: 2025-05-19 15:29+0330\n"
+"PO-Revision-Date: 2019-06-16 12:04+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mec-single-builder.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin/class-admin.php:98 inc/admin/class-admin.php:142
+#: inc/admin/class-admin.php:753
+msgid "Event single view"
+msgstr ""
+
+#: inc/admin/class-admin.php:101 inc/admin/class-admin.php:112
+#: inc/admin/class-admin.php:147 inc/admin/class-admin.php:166
+#: inc/admin/class-admin.php:756 inc/admin/class-admin.php:769
+msgid "Select"
+msgstr ""
+
+#: inc/admin/class-admin.php:109 inc/admin/class-admin.php:161
+#: inc/admin/class-admin.php:766
+msgid "Event modal view"
+msgstr ""
+
+#: inc/admin/class-admin.php:237 inc/admin/class-admin.php:254
+msgid "Please Create New Design for Single Event Page"
+msgstr ""
+
+#: inc/admin/class-admin.php:238 inc/admin/class-admin.php:255
+msgid "Create new"
+msgstr ""
+
+#: inc/admin/class-admin.php:241
+msgid "Default Builder for Single Event"
+msgstr ""
+
+#: inc/admin/class-admin.php:258
+msgid "Default Builder for Modal View"
+msgstr ""
+
+#: inc/admin/class-admin.php:269
+msgid "Custom Event For Set Settings"
+msgstr ""
+
+#: inc/admin/class-admin.php:288
+msgid "Default Single Event Template on Elementor"
+msgstr ""
+
+#: inc/admin/class-admin.php:289
+msgid "Choose your event for single builder addon."
+msgstr ""
+
+#: inc/admin/class-admin.php:289
+msgid "Read More"
+msgstr ""
+
+#: inc/admin/class-admin.php:431
+msgid "Select Single Event Style"
+msgstr ""
+
+#: inc/admin/class-admin.php:433
+msgid "Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:435
+msgid "Apply"
+msgstr ""
+
+#: inc/admin/class-admin.php:436
+msgid ""
+"If you are using the Elementor Single Builder for MEC for the first time, "
+"simply ignore this pop-up. However, if you have used it before, you can "
+"select the template you previously created in this section for the single "
+"event style."
+msgstr ""
+
+#: inc/admin/class-admin.php:448
+msgid "Success"
+msgstr ""
+
+#: inc/admin/class-admin.php:485
+msgctxt "Post Type General Name"
+msgid "Events Single Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:486
+msgctxt "Post Type Singular Name"
+msgid "Events Single Page"
+msgstr ""
+
+#: inc/admin/class-admin.php:487 inc/admin/class-admin.php:489
+msgid "Events Single Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:488
+msgid "Parent Single Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:490
+msgid "View Single Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:491 inc/admin/class-admin.php:492
+msgid "Add New"
+msgstr ""
+
+#: inc/admin/class-admin.php:493
+msgid "Edit Single Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:494
+msgid "Update Single Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:495
+msgid "Search Single Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:496
+msgid "Not Found"
+msgstr ""
+
+#: inc/admin/class-admin.php:497
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/admin/class-admin.php:501
+msgid "Events Single Page Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:502
+msgid "Single Builder news and reviews"
+msgstr ""
+
+#: inc/admin/class-admin.php:623
+msgid "Please select default builder from MEC single page settings."
+msgstr ""
+
+#: inc/admin/class-admin.php:681
+msgid "Please select default builder for modal from MEC single page settings."
+msgstr ""
+
+#: inc/admin/class-admin.php:710 inc/admin/class-admin.php:711
+msgid "Single Builder"
+msgstr ""
+
+#: inc/admin/class-admin.php:780
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-admin.php:782
+msgid "Build new Single Design"
+msgstr ""
+
+#: inc/admin/class-elementor-esb.php:203
+msgid "MEC Single Builder"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:36
+#: inc/admin/widgets/class-esb-rsvp.php:1317
+msgid "Attendees"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:80
+#: inc/admin/widgets/class-esb-booking.php:107
+#: inc/admin/widgets/class-esb-hourly-schedule.php:81
+#: inc/admin/widgets/class-esb-next-pervious.php:81
+#: inc/admin/widgets/class-esb-related-events.php:81
+#: inc/admin/widgets/class-esb-rsvp.php:103
+#: inc/admin/widgets/class-esb-social.php:83
+#: inc/admin/widgets/class-esb-speaker.php:81
+#: inc/admin/widgets/class-esb-sponsor.php:81
+#: inc/admin/widgets/class-esb-weather.php:80
+msgid "Widget Title Settings"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:88
+#: inc/admin/widgets/class-esb-booking.php:115
+#: inc/admin/widgets/class-esb-hourly-schedule.php:89
+#: inc/admin/widgets/class-esb-next-pervious.php:89
+#: inc/admin/widgets/class-esb-related-events.php:89
+#: inc/admin/widgets/class-esb-rsvp.php:111
+#: inc/admin/widgets/class-esb-social.php:91
+#: inc/admin/widgets/class-esb-speaker.php:89
+#: inc/admin/widgets/class-esb-sponsor.php:89
+#: inc/admin/widgets/class-esb-weather.php:88
+msgid "Display Widget Title"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:92
+#: inc/admin/widgets/class-esb-booking.php:119
+#: inc/admin/widgets/class-esb-booking.php:258
+#: inc/admin/widgets/class-esb-cancellation.php:93
+#: inc/admin/widgets/class-esb-export.php:170
+#: inc/admin/widgets/class-esb-hourly-schedule.php:93
+#: inc/admin/widgets/class-esb-hourly-schedule.php:231
+#: inc/admin/widgets/class-esb-next-pervious.php:93
+#: inc/admin/widgets/class-esb-next-pervious.php:224
+#: inc/admin/widgets/class-esb-nxt-prv.php:302
+#: inc/admin/widgets/class-esb-organizer.php:379
+#: inc/admin/widgets/class-esb-organizer.php:682
+#: inc/admin/widgets/class-esb-organizer.php:874
+#: inc/admin/widgets/class-esb-related-events.php:93
+#: inc/admin/widgets/class-esb-related-events.php:225
+#: inc/admin/widgets/class-esb-rsvp.php:115
+#: inc/admin/widgets/class-esb-rsvp.php:247
+#: inc/admin/widgets/class-esb-social.php:95
+#: inc/admin/widgets/class-esb-social.php:226
+#: inc/admin/widgets/class-esb-speaker.php:93
+#: inc/admin/widgets/class-esb-speaker.php:225
+#: inc/admin/widgets/class-esb-sponsor.php:93
+#: inc/admin/widgets/class-esb-weather.php:92
+#: inc/admin/widgets/class-esb-weather.php:224
+msgid "block"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:93
+#: inc/admin/widgets/class-esb-booking.php:120
+#: inc/admin/widgets/class-esb-booking.php:259
+#: inc/admin/widgets/class-esb-hourly-schedule.php:94
+#: inc/admin/widgets/class-esb-hourly-schedule.php:232
+#: inc/admin/widgets/class-esb-next-pervious.php:94
+#: inc/admin/widgets/class-esb-next-pervious.php:225
+#: inc/admin/widgets/class-esb-nxt-prv.php:303
+#: inc/admin/widgets/class-esb-organizer.php:380
+#: inc/admin/widgets/class-esb-organizer.php:683
+#: inc/admin/widgets/class-esb-organizer.php:875
+#: inc/admin/widgets/class-esb-related-events.php:94
+#: inc/admin/widgets/class-esb-related-events.php:226
+#: inc/admin/widgets/class-esb-rsvp.php:116
+#: inc/admin/widgets/class-esb-rsvp.php:248
+#: inc/admin/widgets/class-esb-social.php:96
+#: inc/admin/widgets/class-esb-social.php:227
+#: inc/admin/widgets/class-esb-speaker.php:94
+#: inc/admin/widgets/class-esb-speaker.php:226
+#: inc/admin/widgets/class-esb-sponsor.php:94
+#: inc/admin/widgets/class-esb-weather.php:93
+#: inc/admin/widgets/class-esb-weather.php:225
+msgid "none"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:94
+#: inc/admin/widgets/class-esb-booking.php:121
+#: inc/admin/widgets/class-esb-booking.php:260
+#: inc/admin/widgets/class-esb-hourly-schedule.php:95
+#: inc/admin/widgets/class-esb-next-pervious.php:95
+#: inc/admin/widgets/class-esb-organizer.php:381
+#: inc/admin/widgets/class-esb-organizer.php:684
+#: inc/admin/widgets/class-esb-organizer.php:876
+#: inc/admin/widgets/class-esb-related-events.php:95
+#: inc/admin/widgets/class-esb-rsvp.php:117
+#: inc/admin/widgets/class-esb-rsvp.php:249
+#: inc/admin/widgets/class-esb-social.php:97
+#: inc/admin/widgets/class-esb-speaker.php:95
+#: inc/admin/widgets/class-esb-sponsor.php:95
+#: inc/admin/widgets/class-esb-weather.php:94
+#: inc/admin/widgets/class-esb-weather.php:226
+msgid "inline"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:95
+#: inc/admin/widgets/class-esb-booking.php:122
+#: inc/admin/widgets/class-esb-booking.php:261
+#: inc/admin/widgets/class-esb-cancellation.php:94
+#: inc/admin/widgets/class-esb-export.php:171
+#: inc/admin/widgets/class-esb-hourly-schedule.php:96
+#: inc/admin/widgets/class-esb-next-pervious.php:96
+#: inc/admin/widgets/class-esb-nxt-prv.php:304
+#: inc/admin/widgets/class-esb-organizer.php:382
+#: inc/admin/widgets/class-esb-organizer.php:685
+#: inc/admin/widgets/class-esb-organizer.php:877
+#: inc/admin/widgets/class-esb-related-events.php:96
+#: inc/admin/widgets/class-esb-rsvp.php:118
+#: inc/admin/widgets/class-esb-rsvp.php:250
+#: inc/admin/widgets/class-esb-social.php:98
+#: inc/admin/widgets/class-esb-speaker.php:96
+#: inc/admin/widgets/class-esb-sponsor.php:96
+#: inc/admin/widgets/class-esb-weather.php:95
+#: inc/admin/widgets/class-esb-weather.php:227
+msgid "inline-block"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:106
+#: inc/admin/widgets/class-esb-attendees.php:200
+#: inc/admin/widgets/class-esb-booking.php:134
+#: inc/admin/widgets/class-esb-booking.php:292
+#: inc/admin/widgets/class-esb-cancellation.php:105
+#: inc/admin/widgets/class-esb-content.php:131
+#: inc/admin/widgets/class-esb-export.php:206
+#: inc/admin/widgets/class-esb-featured-image.php:148
+#: inc/admin/widgets/class-esb-hourly-schedule.php:107
+#: inc/admin/widgets/class-esb-next-pervious.php:107
+#: inc/admin/widgets/class-esb-next-pervious.php:255
+#: inc/admin/widgets/class-esb-nxt-prv.php:315
+#: inc/admin/widgets/class-esb-related-events.php:107
+#: inc/admin/widgets/class-esb-related-events.php:255
+#: inc/admin/widgets/class-esb-rsvp.php:129
+#: inc/admin/widgets/class-esb-rsvp.php:279
+#: inc/admin/widgets/class-esb-social.php:109
+#: inc/admin/widgets/class-esb-social.php:257
+#: inc/admin/widgets/class-esb-speaker.php:108
+#: inc/admin/widgets/class-esb-sponsor.php:108
+#: inc/admin/widgets/class-esb-title.php:162
+#: inc/admin/widgets/class-esb-trailer-url.php:120
+#: inc/admin/widgets/class-esb-weather.php:106
+#: inc/admin/widgets/class-esb-weather.php:256
+msgid "Alignment"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:110
+#: inc/admin/widgets/class-esb-attendees.php:204
+#: inc/admin/widgets/class-esb-booking.php:138
+#: inc/admin/widgets/class-esb-booking.php:296
+#: inc/admin/widgets/class-esb-cancellation.php:109
+#: inc/admin/widgets/class-esb-category.php:109
+#: inc/admin/widgets/class-esb-content.php:135
+#: inc/admin/widgets/class-esb-cost.php:108
+#: inc/admin/widgets/class-esb-date.php:108
+#: inc/admin/widgets/class-esb-export.php:210
+#: inc/admin/widgets/class-esb-featured-image.php:152
+#: inc/admin/widgets/class-esb-hourly-schedule.php:111
+#: inc/admin/widgets/class-esb-hourly-schedule.php:273
+#: inc/admin/widgets/class-esb-label.php:108
+#: inc/admin/widgets/class-esb-local-time.php:104
+#: inc/admin/widgets/class-esb-location.php:106
+#: inc/admin/widgets/class-esb-location.php:534
+#: inc/admin/widgets/class-esb-more-info.php:108
+#: inc/admin/widgets/class-esb-next-pervious.php:111
+#: inc/admin/widgets/class-esb-next-pervious.php:259
+#: inc/admin/widgets/class-esb-nxt-prv.php:319
+#: inc/admin/widgets/class-esb-organizer.php:104
+#: inc/admin/widgets/class-esb-organizer.php:578
+#: inc/admin/widgets/class-esb-organizer.php:1073
+#: inc/admin/widgets/class-esb-related-events.php:111
+#: inc/admin/widgets/class-esb-related-events.php:259
+#: inc/admin/widgets/class-esb-rsvp.php:133
+#: inc/admin/widgets/class-esb-rsvp.php:283
+#: inc/admin/widgets/class-esb-social.php:113
+#: inc/admin/widgets/class-esb-social.php:261
+#: inc/admin/widgets/class-esb-speaker.php:112
+#: inc/admin/widgets/class-esb-speaker.php:260
+#: inc/admin/widgets/class-esb-sponsor.php:112
+#: inc/admin/widgets/class-esb-time.php:108
+#: inc/admin/widgets/class-esb-title.php:166
+#: inc/admin/widgets/class-esb-trailer-url.php:124
+#: inc/admin/widgets/class-esb-weather.php:110
+#: inc/admin/widgets/class-esb-weather.php:260
+msgid "Left"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:114
+#: inc/admin/widgets/class-esb-attendees.php:208
+#: inc/admin/widgets/class-esb-booking.php:142
+#: inc/admin/widgets/class-esb-booking.php:300
+#: inc/admin/widgets/class-esb-cancellation.php:113
+#: inc/admin/widgets/class-esb-category.php:113
+#: inc/admin/widgets/class-esb-content.php:139
+#: inc/admin/widgets/class-esb-cost.php:112
+#: inc/admin/widgets/class-esb-date.php:112
+#: inc/admin/widgets/class-esb-export.php:214
+#: inc/admin/widgets/class-esb-featured-image.php:156
+#: inc/admin/widgets/class-esb-hourly-schedule.php:115
+#: inc/admin/widgets/class-esb-hourly-schedule.php:277
+#: inc/admin/widgets/class-esb-label.php:112
+#: inc/admin/widgets/class-esb-local-time.php:108
+#: inc/admin/widgets/class-esb-location.php:110
+#: inc/admin/widgets/class-esb-location.php:538
+#: inc/admin/widgets/class-esb-more-info.php:112
+#: inc/admin/widgets/class-esb-next-pervious.php:115
+#: inc/admin/widgets/class-esb-next-pervious.php:263
+#: inc/admin/widgets/class-esb-nxt-prv.php:323
+#: inc/admin/widgets/class-esb-organizer.php:108
+#: inc/admin/widgets/class-esb-organizer.php:582
+#: inc/admin/widgets/class-esb-organizer.php:1077
+#: inc/admin/widgets/class-esb-related-events.php:115
+#: inc/admin/widgets/class-esb-related-events.php:263
+#: inc/admin/widgets/class-esb-rsvp.php:137
+#: inc/admin/widgets/class-esb-rsvp.php:287
+#: inc/admin/widgets/class-esb-social.php:117
+#: inc/admin/widgets/class-esb-social.php:265
+#: inc/admin/widgets/class-esb-speaker.php:116
+#: inc/admin/widgets/class-esb-speaker.php:264
+#: inc/admin/widgets/class-esb-sponsor.php:116
+#: inc/admin/widgets/class-esb-time.php:112
+#: inc/admin/widgets/class-esb-title.php:170
+#: inc/admin/widgets/class-esb-trailer-url.php:128
+#: inc/admin/widgets/class-esb-weather.php:114
+#: inc/admin/widgets/class-esb-weather.php:264
+msgid "Center"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:118
+#: inc/admin/widgets/class-esb-attendees.php:212
+#: inc/admin/widgets/class-esb-booking.php:146
+#: inc/admin/widgets/class-esb-booking.php:304
+#: inc/admin/widgets/class-esb-cancellation.php:117
+#: inc/admin/widgets/class-esb-category.php:117
+#: inc/admin/widgets/class-esb-content.php:144
+#: inc/admin/widgets/class-esb-cost.php:116
+#: inc/admin/widgets/class-esb-date.php:116
+#: inc/admin/widgets/class-esb-export.php:218
+#: inc/admin/widgets/class-esb-featured-image.php:161
+#: inc/admin/widgets/class-esb-hourly-schedule.php:119
+#: inc/admin/widgets/class-esb-hourly-schedule.php:281
+#: inc/admin/widgets/class-esb-label.php:116
+#: inc/admin/widgets/class-esb-local-time.php:112
+#: inc/admin/widgets/class-esb-location.php:114
+#: inc/admin/widgets/class-esb-location.php:542
+#: inc/admin/widgets/class-esb-more-info.php:116
+#: inc/admin/widgets/class-esb-next-pervious.php:119
+#: inc/admin/widgets/class-esb-next-pervious.php:267
+#: inc/admin/widgets/class-esb-nxt-prv.php:327
+#: inc/admin/widgets/class-esb-organizer.php:112
+#: inc/admin/widgets/class-esb-organizer.php:586
+#: inc/admin/widgets/class-esb-organizer.php:1081
+#: inc/admin/widgets/class-esb-related-events.php:119
+#: inc/admin/widgets/class-esb-related-events.php:267
+#: inc/admin/widgets/class-esb-rsvp.php:141
+#: inc/admin/widgets/class-esb-rsvp.php:291
+#: inc/admin/widgets/class-esb-social.php:121
+#: inc/admin/widgets/class-esb-social.php:269
+#: inc/admin/widgets/class-esb-speaker.php:120
+#: inc/admin/widgets/class-esb-speaker.php:268
+#: inc/admin/widgets/class-esb-sponsor.php:120
+#: inc/admin/widgets/class-esb-time.php:116
+#: inc/admin/widgets/class-esb-title.php:175
+#: inc/admin/widgets/class-esb-trailer-url.php:132
+#: inc/admin/widgets/class-esb-weather.php:118
+#: inc/admin/widgets/class-esb-weather.php:268
+msgid "Right"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:133
+#: inc/admin/widgets/class-esb-booking.php:162
+#: inc/admin/widgets/class-esb-category.php:208
+#: inc/admin/widgets/class-esb-cost.php:205
+#: inc/admin/widgets/class-esb-faq.php:236
+#: inc/admin/widgets/class-esb-hourly-schedule.php:141
+#: inc/admin/widgets/class-esb-hourly-schedule.php:667
+#: inc/admin/widgets/class-esb-label.php:205
+#: inc/admin/widgets/class-esb-local-time.php:191
+#: inc/admin/widgets/class-esb-location.php:207
+#: inc/admin/widgets/class-esb-location.php:709
+#: inc/admin/widgets/class-esb-more-info.php:205
+#: inc/admin/widgets/class-esb-next-pervious.php:134
+#: inc/admin/widgets/class-esb-next-pervious.php:519
+#: inc/admin/widgets/class-esb-organizer.php:204
+#: inc/admin/widgets/class-esb-organizer.php:1173
+#: inc/admin/widgets/class-esb-related-events.php:134
+#: inc/admin/widgets/class-esb-related-events.php:543
+#: inc/admin/widgets/class-esb-rsvp.php:156
+#: inc/admin/widgets/class-esb-social.php:136
+#: inc/admin/widgets/class-esb-speaker.php:135
+#: inc/admin/widgets/class-esb-sponsor.php:135
+#: inc/admin/widgets/class-esb-tags.php:176
+#: inc/admin/widgets/class-esb-time.php:205
+#: inc/admin/widgets/class-esb-title.php:111
+#: inc/admin/widgets/class-esb-weather.php:133
+msgid "Title Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:148
+#: inc/admin/widgets/class-esb-attendees.php:383
+#: inc/admin/widgets/class-esb-booking.php:178
+#: inc/admin/widgets/class-esb-category.php:216
+#: inc/admin/widgets/class-esb-cost.php:213
+#: inc/admin/widgets/class-esb-faq.php:244
+#: inc/admin/widgets/class-esb-hourly-schedule.php:156
+#: inc/admin/widgets/class-esb-hourly-schedule.php:416
+#: inc/admin/widgets/class-esb-hourly-schedule.php:675
+#: inc/admin/widgets/class-esb-label.php:213
+#: inc/admin/widgets/class-esb-local-time.php:199
+#: inc/admin/widgets/class-esb-location.php:215
+#: inc/admin/widgets/class-esb-location.php:717
+#: inc/admin/widgets/class-esb-more-info.php:213
+#: inc/admin/widgets/class-esb-next-pervious.php:149
+#: inc/admin/widgets/class-esb-next-pervious.php:528
+#: inc/admin/widgets/class-esb-organizer.php:212
+#: inc/admin/widgets/class-esb-organizer.php:1181
+#: inc/admin/widgets/class-esb-related-events.php:149
+#: inc/admin/widgets/class-esb-related-events.php:551
+#: inc/admin/widgets/class-esb-rsvp.php:171
+#: inc/admin/widgets/class-esb-social.php:151
+#: inc/admin/widgets/class-esb-speaker.php:150
+#: inc/admin/widgets/class-esb-sponsor.php:150
+#: inc/admin/widgets/class-esb-tags.php:184
+#: inc/admin/widgets/class-esb-time.php:213
+#: inc/admin/widgets/class-esb-title.php:128
+#: inc/admin/widgets/class-esb-weather.php:148
+msgid "Title Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:167
+#: inc/admin/widgets/class-esb-attendees.php:335
+#: inc/admin/widgets/class-esb-attendees.php:543
+#: inc/admin/widgets/class-esb-banner.php:107
+#: inc/admin/widgets/class-esb-banner.php:203
+#: inc/admin/widgets/class-esb-booking.php:217
+#: inc/admin/widgets/class-esb-booking.php:409
+#: inc/admin/widgets/class-esb-booking.php:727
+#: inc/admin/widgets/class-esb-booking.php:914
+#: inc/admin/widgets/class-esb-booking.php:1059
+#: inc/admin/widgets/class-esb-booking.php:1266
+#: inc/admin/widgets/class-esb-breadcrumbs.php:125
+#: inc/admin/widgets/class-esb-cancellation.php:170
+#: inc/admin/widgets/class-esb-category.php:157
+#: inc/admin/widgets/class-esb-content.php:184
+#: inc/admin/widgets/class-esb-cost.php:155
+#: inc/admin/widgets/class-esb-countdown.php:120
+#: inc/admin/widgets/class-esb-countdown.php:183
+#: inc/admin/widgets/class-esb-custom-data.php:129
+#: inc/admin/widgets/class-esb-custom-data.php:233
+#: inc/admin/widgets/class-esb-date.php:157
+#: inc/admin/widgets/class-esb-event-gallery.php:126
+#: inc/admin/widgets/class-esb-event-gallery.php:250
+#: inc/admin/widgets/class-esb-event-gallery.php:374
+#: inc/admin/widgets/class-esb-event-gallery.php:534
+#: inc/admin/widgets/class-esb-event-gallery.php:658
+#: inc/admin/widgets/class-esb-export.php:124
+#: inc/admin/widgets/class-esb-export.php:323
+#: inc/admin/widgets/class-esb-faq.php:124
+#: inc/admin/widgets/class-esb-faq.php:199
+#: inc/admin/widgets/class-esb-faq.php:390
+#: inc/admin/widgets/class-esb-featured-image.php:213
+#: inc/admin/widgets/class-esb-googlemap.php:124
+#: inc/admin/widgets/class-esb-googlemap.php:324
+#: inc/admin/widgets/class-esb-hourly-schedule.php:193
+#: inc/admin/widgets/class-esb-hourly-schedule.php:368
+#: inc/admin/widgets/class-esb-label.php:155
+#: inc/admin/widgets/class-esb-local-time.php:151
+#: inc/admin/widgets/class-esb-location.php:154
+#: inc/admin/widgets/class-esb-location.php:427
+#: inc/admin/widgets/class-esb-location.php:581
+#: inc/admin/widgets/class-esb-location.php:669
+#: inc/admin/widgets/class-esb-location.php:969
+#: inc/admin/widgets/class-esb-more-info.php:155
+#: inc/admin/widgets/class-esb-next-pervious.php:186
+#: inc/admin/widgets/class-esb-next-pervious.php:355
+#: inc/admin/widgets/class-esb-next-pervious.php:475
+#: inc/admin/widgets/class-esb-nxt-prv.php:126
+#: inc/admin/widgets/class-esb-nxt-prv.php:246
+#: inc/admin/widgets/class-esb-organizer.php:151
+#: inc/admin/widgets/class-esb-organizer.php:524
+#: inc/admin/widgets/class-esb-organizer.php:625
+#: inc/admin/widgets/class-esb-organizer.php:1019
+#: inc/admin/widgets/class-esb-organizer.php:1120
+#: inc/admin/widgets/class-esb-public-download.php:159
+#: inc/admin/widgets/class-esb-public-download.php:270
+#: inc/admin/widgets/class-esb-public-download.php:417
+#: inc/admin/widgets/class-esb-qr.php:123
+#: inc/admin/widgets/class-esb-register-button.php:129
+#: inc/admin/widgets/class-esb-register-button.php:303
+#: inc/admin/widgets/class-esb-related-events.php:186
+#: inc/admin/widgets/class-esb-related-events.php:354
+#: inc/admin/widgets/class-esb-rsvp.php:208
+#: inc/admin/widgets/class-esb-rsvp.php:395
+#: inc/admin/widgets/class-esb-rsvp.php:617
+#: inc/admin/widgets/class-esb-rsvp.php:770
+#: inc/admin/widgets/class-esb-rsvp.php:911
+#: inc/admin/widgets/class-esb-rsvp.php:1033
+#: inc/admin/widgets/class-esb-rsvp.php:1213
+#: inc/admin/widgets/class-esb-social.php:188
+#: inc/admin/widgets/class-esb-social.php:357
+#: inc/admin/widgets/class-esb-social.php:542
+#: inc/admin/widgets/class-esb-speaker.php:187
+#: inc/admin/widgets/class-esb-speaker.php:355
+#: inc/admin/widgets/class-esb-speaker.php:430
+#: inc/admin/widgets/class-esb-speaker.php:689
+#: inc/admin/widgets/class-esb-speaker.php:797
+#: inc/admin/widgets/class-esb-speaker.php:1035
+#: inc/admin/widgets/class-esb-speaker.php:1143
+#: inc/admin/widgets/class-esb-sponsor.php:187
+#: inc/admin/widgets/class-esb-sponsor.php:339
+#: inc/admin/widgets/class-esb-sponsor.php:414
+#: inc/admin/widgets/class-esb-sponsor.php:610
+#: inc/admin/widgets/class-esb-tags.php:125
+#: inc/admin/widgets/class-esb-time.php:155
+#: inc/admin/widgets/class-esb-title.php:215
+#: inc/admin/widgets/class-esb-trailer-url.php:171
+#: inc/admin/widgets/class-esb-virtual-event.php:148
+#: inc/admin/widgets/class-esb-virtual-event.php:237
+#: inc/admin/widgets/class-esb-virtual-event.php:300
+#: inc/admin/widgets/class-esb-weather.php:185
+#: inc/admin/widgets/class-esb-weather.php:355
+#: inc/admin/widgets/class-esb-weather.php:430
+#: inc/admin/widgets/class-esb-zoom-event.php:148
+#: inc/admin/widgets/class-esb-zoom-event.php:237
+#: inc/admin/widgets/class-esb-zoom-event.php:300
+msgid "Border"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:182
+#: inc/admin/widgets/class-esb-booking.php:273
+#: inc/admin/widgets/class-esb-hourly-schedule.php:251
+#: inc/admin/widgets/class-esb-next-pervious.php:237
+#: inc/admin/widgets/class-esb-related-events.php:237
+#: inc/admin/widgets/class-esb-rsvp.php:261
+#: inc/admin/widgets/class-esb-social.php:239
+#: inc/admin/widgets/class-esb-speaker.php:238
+#: inc/admin/widgets/class-esb-weather.php:238
+msgid "Title Shape Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:233
+#: inc/admin/widgets/class-esb-attendees.php:310
+#: inc/admin/widgets/class-esb-attendees.php:518
+#: inc/admin/widgets/class-esb-banner.php:93
+#: inc/admin/widgets/class-esb-banner.php:178
+#: inc/admin/widgets/class-esb-booking.php:326
+#: inc/admin/widgets/class-esb-booking.php:382
+#: inc/admin/widgets/class-esb-booking.php:844
+#: inc/admin/widgets/class-esb-booking.php:989
+#: inc/admin/widgets/class-esb-breadcrumbs.php:100
+#: inc/admin/widgets/class-esb-cancellation.php:143
+#: inc/admin/widgets/class-esb-category.php:131
+#: inc/admin/widgets/class-esb-content.php:158
+#: inc/admin/widgets/class-esb-cost.php:130
+#: inc/admin/widgets/class-esb-countdown.php:95
+#: inc/admin/widgets/class-esb-countdown.php:170
+#: inc/admin/widgets/class-esb-custom-data.php:104
+#: inc/admin/widgets/class-esb-custom-data.php:207
+#: inc/admin/widgets/class-esb-date.php:130
+#: inc/admin/widgets/class-esb-date.php:364
+#: inc/admin/widgets/class-esb-event-gallery.php:100
+#: inc/admin/widgets/class-esb-event-gallery.php:224
+#: inc/admin/widgets/class-esb-event-gallery.php:348
+#: inc/admin/widgets/class-esb-event-gallery.php:508
+#: inc/admin/widgets/class-esb-event-gallery.php:632
+#: inc/admin/widgets/class-esb-export.php:99
+#: inc/admin/widgets/class-esb-export.php:182
+#: inc/admin/widgets/class-esb-export.php:297
+#: inc/admin/widgets/class-esb-faq.php:99
+#: inc/admin/widgets/class-esb-faq.php:365
+#: inc/admin/widgets/class-esb-featured-image.php:187
+#: inc/admin/widgets/class-esb-googlemap.php:99
+#: inc/admin/widgets/class-esb-hourly-schedule.php:302
+#: inc/admin/widgets/class-esb-hourly-schedule.php:343
+#: inc/admin/widgets/class-esb-hourly-schedule.php:427
+#: inc/admin/widgets/class-esb-label.php:130
+#: inc/admin/widgets/class-esb-local-time.php:126
+#: inc/admin/widgets/class-esb-location.php:128
+#: inc/admin/widgets/class-esb-location.php:556
+#: inc/admin/widgets/class-esb-location.php:644
+#: inc/admin/widgets/class-esb-more-info.php:130
+#: inc/admin/widgets/class-esb-next-pervious.php:288
+#: inc/admin/widgets/class-esb-next-pervious.php:330
+#: inc/admin/widgets/class-esb-next-pervious.php:448
+#: inc/admin/widgets/class-esb-nxt-prv.php:100
+#: inc/admin/widgets/class-esb-nxt-prv.php:219
+#: inc/admin/widgets/class-esb-nxt-prv.php:341
+#: inc/admin/widgets/class-esb-organizer.php:126
+#: inc/admin/widgets/class-esb-organizer.php:499
+#: inc/admin/widgets/class-esb-organizer.php:600
+#: inc/admin/widgets/class-esb-organizer.php:994
+#: inc/admin/widgets/class-esb-organizer.php:1095
+#: inc/admin/widgets/class-esb-public-download.php:87
+#: inc/admin/widgets/class-esb-public-download.php:232
+#: inc/admin/widgets/class-esb-public-download.php:344
+#: inc/admin/widgets/class-esb-qr.php:98
+#: inc/admin/widgets/class-esb-register-button.php:104
+#: inc/admin/widgets/class-esb-register-button.php:221
+#: inc/admin/widgets/class-esb-related-events.php:288
+#: inc/admin/widgets/class-esb-related-events.php:329
+#: inc/admin/widgets/class-esb-rsvp.php:312
+#: inc/admin/widgets/class-esb-rsvp.php:370
+#: inc/admin/widgets/class-esb-rsvp.php:1062
+#: inc/admin/widgets/class-esb-rsvp.php:1284
+#: inc/admin/widgets/class-esb-social.php:290
+#: inc/admin/widgets/class-esb-social.php:332
+#: inc/admin/widgets/class-esb-social.php:515
+#: inc/admin/widgets/class-esb-speaker.php:289
+#: inc/admin/widgets/class-esb-speaker.php:330
+#: inc/admin/widgets/class-esb-speaker.php:405
+#: inc/admin/widgets/class-esb-speaker.php:500
+#: inc/admin/widgets/class-esb-speaker.php:565
+#: inc/admin/widgets/class-esb-speaker.php:664
+#: inc/admin/widgets/class-esb-speaker.php:771
+#: inc/admin/widgets/class-esb-speaker.php:1118
+#: inc/admin/widgets/class-esb-sponsor.php:254
+#: inc/admin/widgets/class-esb-sponsor.php:314
+#: inc/admin/widgets/class-esb-sponsor.php:389
+#: inc/admin/widgets/class-esb-sponsor.php:484
+#: inc/admin/widgets/class-esb-sponsor.php:584
+#: inc/admin/widgets/class-esb-tags.php:99
+#: inc/admin/widgets/class-esb-time.php:130
+#: inc/admin/widgets/class-esb-title.php:189
+#: inc/admin/widgets/class-esb-trailer-url.php:146
+#: inc/admin/widgets/class-esb-virtual-event.php:123
+#: inc/admin/widgets/class-esb-weather.php:289
+#: inc/admin/widgets/class-esb-weather.php:330
+#: inc/admin/widgets/class-esb-zoom-event.php:123
+msgid "Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:252
+#: inc/admin/widgets/class-esb-attendees.php:343
+#: inc/admin/widgets/class-esb-attendees.php:551
+#: inc/admin/widgets/class-esb-banner.php:116
+#: inc/admin/widgets/class-esb-banner.php:211
+#: inc/admin/widgets/class-esb-booking.php:233
+#: inc/admin/widgets/class-esb-booking.php:418
+#: inc/admin/widgets/class-esb-booking.php:751
+#: inc/admin/widgets/class-esb-booking.php:922
+#: inc/admin/widgets/class-esb-booking.php:1067
+#: inc/admin/widgets/class-esb-booking.php:1277
+#: inc/admin/widgets/class-esb-breadcrumbs.php:133
+#: inc/admin/widgets/class-esb-cancellation.php:178
+#: inc/admin/widgets/class-esb-category.php:166
+#: inc/admin/widgets/class-esb-content.php:193
+#: inc/admin/widgets/class-esb-cost.php:163
+#: inc/admin/widgets/class-esb-countdown.php:128
+#: inc/admin/widgets/class-esb-countdown.php:191
+#: inc/admin/widgets/class-esb-custom-data.php:137
+#: inc/admin/widgets/class-esb-custom-data.php:241
+#: inc/admin/widgets/class-esb-date.php:165
+#: inc/admin/widgets/class-esb-event-gallery.php:135
+#: inc/admin/widgets/class-esb-event-gallery.php:259
+#: inc/admin/widgets/class-esb-event-gallery.php:383
+#: inc/admin/widgets/class-esb-event-gallery.php:543
+#: inc/admin/widgets/class-esb-event-gallery.php:667
+#: inc/admin/widgets/class-esb-export.php:132
+#: inc/admin/widgets/class-esb-export.php:332
+#: inc/admin/widgets/class-esb-faq.php:132
+#: inc/admin/widgets/class-esb-faq.php:207
+#: inc/admin/widgets/class-esb-faq.php:398
+#: inc/admin/widgets/class-esb-featured-image.php:222
+#: inc/admin/widgets/class-esb-googlemap.php:132
+#: inc/admin/widgets/class-esb-googlemap.php:332
+#: inc/admin/widgets/class-esb-hourly-schedule.php:208
+#: inc/admin/widgets/class-esb-hourly-schedule.php:376
+#: inc/admin/widgets/class-esb-label.php:163
+#: inc/admin/widgets/class-esb-local-time.php:159
+#: inc/admin/widgets/class-esb-location.php:162
+#: inc/admin/widgets/class-esb-location.php:435
+#: inc/admin/widgets/class-esb-location.php:589
+#: inc/admin/widgets/class-esb-location.php:677
+#: inc/admin/widgets/class-esb-location.php:977
+#: inc/admin/widgets/class-esb-more-info.php:163
+#: inc/admin/widgets/class-esb-next-pervious.php:201
+#: inc/admin/widgets/class-esb-next-pervious.php:363
+#: inc/admin/widgets/class-esb-nxt-prv.php:135
+#: inc/admin/widgets/class-esb-nxt-prv.php:254
+#: inc/admin/widgets/class-esb-organizer.php:159
+#: inc/admin/widgets/class-esb-organizer.php:532
+#: inc/admin/widgets/class-esb-organizer.php:633
+#: inc/admin/widgets/class-esb-organizer.php:1027
+#: inc/admin/widgets/class-esb-organizer.php:1128
+#: inc/admin/widgets/class-esb-public-download.php:167
+#: inc/admin/widgets/class-esb-public-download.php:278
+#: inc/admin/widgets/class-esb-public-download.php:425
+#: inc/admin/widgets/class-esb-qr.php:131
+#: inc/admin/widgets/class-esb-register-button.php:137
+#: inc/admin/widgets/class-esb-register-button.php:311
+#: inc/admin/widgets/class-esb-related-events.php:201
+#: inc/admin/widgets/class-esb-related-events.php:362
+#: inc/admin/widgets/class-esb-rsvp.php:223
+#: inc/admin/widgets/class-esb-rsvp.php:403
+#: inc/admin/widgets/class-esb-rsvp.php:625
+#: inc/admin/widgets/class-esb-rsvp.php:778
+#: inc/admin/widgets/class-esb-rsvp.php:919
+#: inc/admin/widgets/class-esb-rsvp.php:1041
+#: inc/admin/widgets/class-esb-rsvp.php:1263
+#: inc/admin/widgets/class-esb-social.php:203
+#: inc/admin/widgets/class-esb-social.php:365
+#: inc/admin/widgets/class-esb-social.php:561
+#: inc/admin/widgets/class-esb-speaker.php:202
+#: inc/admin/widgets/class-esb-speaker.php:363
+#: inc/admin/widgets/class-esb-speaker.php:438
+#: inc/admin/widgets/class-esb-speaker.php:697
+#: inc/admin/widgets/class-esb-speaker.php:806
+#: inc/admin/widgets/class-esb-speaker.php:1043
+#: inc/admin/widgets/class-esb-speaker.php:1152
+#: inc/admin/widgets/class-esb-sponsor.php:274
+#: inc/admin/widgets/class-esb-sponsor.php:347
+#: inc/admin/widgets/class-esb-sponsor.php:422
+#: inc/admin/widgets/class-esb-sponsor.php:619
+#: inc/admin/widgets/class-esb-tags.php:134
+#: inc/admin/widgets/class-esb-time.php:163
+#: inc/admin/widgets/class-esb-title.php:224
+#: inc/admin/widgets/class-esb-trailer-url.php:179
+#: inc/admin/widgets/class-esb-virtual-event.php:156
+#: inc/admin/widgets/class-esb-virtual-event.php:245
+#: inc/admin/widgets/class-esb-virtual-event.php:308
+#: inc/admin/widgets/class-esb-weather.php:200
+#: inc/admin/widgets/class-esb-weather.php:363
+#: inc/admin/widgets/class-esb-weather.php:438
+#: inc/admin/widgets/class-esb-zoom-event.php:156
+#: inc/admin/widgets/class-esb-zoom-event.php:245
+#: inc/admin/widgets/class-esb-zoom-event.php:308
+msgid "Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:271
+#: inc/admin/widgets/class-esb-attendees.php:299
+#: inc/admin/widgets/class-esb-attendees.php:507
+#: inc/admin/widgets/class-esb-banner.php:167
+#: inc/admin/widgets/class-esb-booking.php:197
+#: inc/admin/widgets/class-esb-booking.php:370
+#: inc/admin/widgets/class-esb-booking.php:891
+#: inc/admin/widgets/class-esb-booking.php:1036
+#: inc/admin/widgets/class-esb-breadcrumbs.php:89
+#: inc/admin/widgets/class-esb-cancellation.php:132
+#: inc/admin/widgets/class-esb-category.php:94
+#: inc/admin/widgets/class-esb-content.php:120
+#: inc/admin/widgets/class-esb-cost.php:93
+#: inc/admin/widgets/class-esb-countdown.php:84
+#: inc/admin/widgets/class-esb-countdown.php:159
+#: inc/admin/widgets/class-esb-custom-data.php:93
+#: inc/admin/widgets/class-esb-custom-data.php:196
+#: inc/admin/widgets/class-esb-date.php:93
+#: inc/admin/widgets/class-esb-event-gallery.php:89
+#: inc/admin/widgets/class-esb-event-gallery.php:212
+#: inc/admin/widgets/class-esb-event-gallery.php:336
+#: inc/admin/widgets/class-esb-event-gallery.php:496
+#: inc/admin/widgets/class-esb-event-gallery.php:620
+#: inc/admin/widgets/class-esb-export.php:88
+#: inc/admin/widgets/class-esb-faq.php:88
+#: inc/admin/widgets/class-esb-faq.php:163
+#: inc/admin/widgets/class-esb-faq.php:354
+#: inc/admin/widgets/class-esb-featured-image.php:176
+#: inc/admin/widgets/class-esb-googlemap.php:88
+#: inc/admin/widgets/class-esb-hourly-schedule.php:174
+#: inc/admin/widgets/class-esb-hourly-schedule.php:332
+#: inc/admin/widgets/class-esb-label.php:93
+#: inc/admin/widgets/class-esb-local-time.php:89
+#: inc/admin/widgets/class-esb-location.php:91
+#: inc/admin/widgets/class-esb-location.php:391
+#: inc/admin/widgets/class-esb-location.php:519
+#: inc/admin/widgets/class-esb-location.php:633
+#: inc/admin/widgets/class-esb-location.php:932
+#: inc/admin/widgets/class-esb-more-info.php:93
+#: inc/admin/widgets/class-esb-next-pervious.php:167
+#: inc/admin/widgets/class-esb-next-pervious.php:319
+#: inc/admin/widgets/class-esb-next-pervious.php:414
+#: inc/admin/widgets/class-esb-nxt-prv.php:89
+#: inc/admin/widgets/class-esb-organizer.php:89
+#: inc/admin/widgets/class-esb-organizer.php:488
+#: inc/admin/widgets/class-esb-organizer.php:563
+#: inc/admin/widgets/class-esb-organizer.php:983
+#: inc/admin/widgets/class-esb-organizer.php:1058
+#: inc/admin/widgets/class-esb-public-download.php:135
+#: inc/admin/widgets/class-esb-public-download.php:258
+#: inc/admin/widgets/class-esb-public-download.php:393
+#: inc/admin/widgets/class-esb-qr.php:87
+#: inc/admin/widgets/class-esb-register-button.php:93
+#: inc/admin/widgets/class-esb-register-button.php:199
+#: inc/admin/widgets/class-esb-related-events.php:167
+#: inc/admin/widgets/class-esb-related-events.php:318
+#: inc/admin/widgets/class-esb-rsvp.php:189
+#: inc/admin/widgets/class-esb-rsvp.php:359
+#: inc/admin/widgets/class-esb-rsvp.php:1201
+#: inc/admin/widgets/class-esb-social.php:169
+#: inc/admin/widgets/class-esb-social.php:321
+#: inc/admin/widgets/class-esb-speaker.php:168
+#: inc/admin/widgets/class-esb-speaker.php:319
+#: inc/admin/widgets/class-esb-speaker.php:394
+#: inc/admin/widgets/class-esb-speaker.php:653
+#: inc/admin/widgets/class-esb-speaker.php:760
+#: inc/admin/widgets/class-esb-speaker.php:1106
+#: inc/admin/widgets/class-esb-sponsor.php:168
+#: inc/admin/widgets/class-esb-sponsor.php:303
+#: inc/admin/widgets/class-esb-sponsor.php:378
+#: inc/admin/widgets/class-esb-sponsor.php:572
+#: inc/admin/widgets/class-esb-tags.php:88
+#: inc/admin/widgets/class-esb-time.php:93
+#: inc/admin/widgets/class-esb-title.php:151
+#: inc/admin/widgets/class-esb-virtual-event.php:112
+#: inc/admin/widgets/class-esb-weather.php:166
+#: inc/admin/widgets/class-esb-weather.php:319
+#: inc/admin/widgets/class-esb-zoom-event.php:112
+msgid "Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:291
+msgid "Attendess Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:322
+#: inc/admin/widgets/class-esb-attendees.php:530
+#: inc/admin/widgets/class-esb-banner.php:190
+#: inc/admin/widgets/class-esb-booking.php:347
+#: inc/admin/widgets/class-esb-booking.php:395
+#: inc/admin/widgets/class-esb-booking.php:856
+#: inc/admin/widgets/class-esb-booking.php:1001
+#: inc/admin/widgets/class-esb-breadcrumbs.php:112
+#: inc/admin/widgets/class-esb-breadcrumbs.php:195
+#: inc/admin/widgets/class-esb-breadcrumbs.php:231
+#: inc/admin/widgets/class-esb-cancellation.php:156
+#: inc/admin/widgets/class-esb-category.php:144
+#: inc/admin/widgets/class-esb-content.php:171
+#: inc/admin/widgets/class-esb-cost.php:142
+#: inc/admin/widgets/class-esb-countdown.php:107
+#: inc/admin/widgets/class-esb-custom-data.php:116
+#: inc/admin/widgets/class-esb-custom-data.php:219
+#: inc/admin/widgets/class-esb-date.php:143
+#: inc/admin/widgets/class-esb-event-gallery.php:113
+#: inc/admin/widgets/class-esb-event-gallery.php:237
+#: inc/admin/widgets/class-esb-event-gallery.php:361
+#: inc/admin/widgets/class-esb-event-gallery.php:521
+#: inc/admin/widgets/class-esb-event-gallery.php:645
+#: inc/admin/widgets/class-esb-export.php:111
+#: inc/admin/widgets/class-esb-export.php:194
+#: inc/admin/widgets/class-esb-export.php:310
+#: inc/admin/widgets/class-esb-faq.php:111
+#: inc/admin/widgets/class-esb-faq.php:377
+#: inc/admin/widgets/class-esb-featured-image.php:200
+#: inc/admin/widgets/class-esb-googlemap.php:111
+#: inc/admin/widgets/class-esb-hourly-schedule.php:355
+#: inc/admin/widgets/class-esb-hourly-schedule.php:439
+#: inc/admin/widgets/class-esb-label.php:142
+#: inc/admin/widgets/class-esb-local-time.php:138
+#: inc/admin/widgets/class-esb-location.php:140
+#: inc/admin/widgets/class-esb-location.php:568
+#: inc/admin/widgets/class-esb-location.php:656
+#: inc/admin/widgets/class-esb-more-info.php:142
+#: inc/admin/widgets/class-esb-next-pervious.php:342
+#: inc/admin/widgets/class-esb-next-pervious.php:461
+#: inc/admin/widgets/class-esb-nxt-prv.php:113
+#: inc/admin/widgets/class-esb-nxt-prv.php:232
+#: inc/admin/widgets/class-esb-nxt-prv.php:353
+#: inc/admin/widgets/class-esb-organizer.php:138
+#: inc/admin/widgets/class-esb-organizer.php:511
+#: inc/admin/widgets/class-esb-organizer.php:612
+#: inc/admin/widgets/class-esb-organizer.php:1006
+#: inc/admin/widgets/class-esb-organizer.php:1107
+#: inc/admin/widgets/class-esb-public-download.php:99
+#: inc/admin/widgets/class-esb-public-download.php:245
+#: inc/admin/widgets/class-esb-public-download.php:357
+#: inc/admin/widgets/class-esb-qr.php:110
+#: inc/admin/widgets/class-esb-register-button.php:116
+#: inc/admin/widgets/class-esb-register-button.php:234
+#: inc/admin/widgets/class-esb-related-events.php:341
+#: inc/admin/widgets/class-esb-rsvp.php:331
+#: inc/admin/widgets/class-esb-rsvp.php:382
+#: inc/admin/widgets/class-esb-rsvp.php:1074
+#: inc/admin/widgets/class-esb-rsvp.php:1296
+#: inc/admin/widgets/class-esb-social.php:344
+#: inc/admin/widgets/class-esb-social.php:528
+#: inc/admin/widgets/class-esb-speaker.php:342
+#: inc/admin/widgets/class-esb-speaker.php:417
+#: inc/admin/widgets/class-esb-speaker.php:512
+#: inc/admin/widgets/class-esb-speaker.php:577
+#: inc/admin/widgets/class-esb-speaker.php:676
+#: inc/admin/widgets/class-esb-speaker.php:784
+#: inc/admin/widgets/class-esb-speaker.php:1130
+#: inc/admin/widgets/class-esb-sponsor.php:326
+#: inc/admin/widgets/class-esb-sponsor.php:401
+#: inc/admin/widgets/class-esb-sponsor.php:496
+#: inc/admin/widgets/class-esb-sponsor.php:597
+#: inc/admin/widgets/class-esb-tags.php:112
+#: inc/admin/widgets/class-esb-time.php:142
+#: inc/admin/widgets/class-esb-title.php:202
+#: inc/admin/widgets/class-esb-trailer-url.php:158
+#: inc/admin/widgets/class-esb-virtual-event.php:135
+#: inc/admin/widgets/class-esb-virtual-event.php:212
+#: inc/admin/widgets/class-esb-virtual-event.php:275
+#: inc/admin/widgets/class-esb-weather.php:342
+#: inc/admin/widgets/class-esb-zoom-event.php:135
+#: inc/admin/widgets/class-esb-zoom-event.php:212
+#: inc/admin/widgets/class-esb-zoom-event.php:275
+msgid "Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:356
+#: inc/admin/widgets/class-esb-attendees.php:564
+#: inc/admin/widgets/class-esb-banner.php:129
+#: inc/admin/widgets/class-esb-booking.php:432
+#: inc/admin/widgets/class-esb-booking.php:779
+#: inc/admin/widgets/class-esb-booking.php:935
+#: inc/admin/widgets/class-esb-booking.php:1080
+#: inc/admin/widgets/class-esb-booking.php:1292
+#: inc/admin/widgets/class-esb-breadcrumbs.php:146
+#: inc/admin/widgets/class-esb-cancellation.php:191
+#: inc/admin/widgets/class-esb-category.php:179
+#: inc/admin/widgets/class-esb-content.php:206
+#: inc/admin/widgets/class-esb-cost.php:176
+#: inc/admin/widgets/class-esb-countdown.php:141
+#: inc/admin/widgets/class-esb-countdown.php:204
+#: inc/admin/widgets/class-esb-custom-data.php:150
+#: inc/admin/widgets/class-esb-custom-data.php:254
+#: inc/admin/widgets/class-esb-date.php:178
+#: inc/admin/widgets/class-esb-event-gallery.php:148
+#: inc/admin/widgets/class-esb-event-gallery.php:272
+#: inc/admin/widgets/class-esb-event-gallery.php:396
+#: inc/admin/widgets/class-esb-event-gallery.php:556
+#: inc/admin/widgets/class-esb-event-gallery.php:680
+#: inc/admin/widgets/class-esb-export.php:145
+#: inc/admin/widgets/class-esb-faq.php:145
+#: inc/admin/widgets/class-esb-faq.php:220
+#: inc/admin/widgets/class-esb-faq.php:411
+#: inc/admin/widgets/class-esb-featured-image.php:235
+#: inc/admin/widgets/class-esb-googlemap.php:145
+#: inc/admin/widgets/class-esb-googlemap.php:345
+#: inc/admin/widgets/class-esb-hourly-schedule.php:389
+#: inc/admin/widgets/class-esb-label.php:176
+#: inc/admin/widgets/class-esb-local-time.php:172
+#: inc/admin/widgets/class-esb-location.php:175
+#: inc/admin/widgets/class-esb-location.php:448
+#: inc/admin/widgets/class-esb-location.php:602
+#: inc/admin/widgets/class-esb-location.php:690
+#: inc/admin/widgets/class-esb-location.php:990
+#: inc/admin/widgets/class-esb-more-info.php:176
+#: inc/admin/widgets/class-esb-next-pervious.php:376
+#: inc/admin/widgets/class-esb-nxt-prv.php:148
+#: inc/admin/widgets/class-esb-organizer.php:172
+#: inc/admin/widgets/class-esb-organizer.php:545
+#: inc/admin/widgets/class-esb-organizer.php:646
+#: inc/admin/widgets/class-esb-organizer.php:1040
+#: inc/admin/widgets/class-esb-organizer.php:1141
+#: inc/admin/widgets/class-esb-public-download.php:180
+#: inc/admin/widgets/class-esb-public-download.php:291
+#: inc/admin/widgets/class-esb-public-download.php:438
+#: inc/admin/widgets/class-esb-qr.php:144
+#: inc/admin/widgets/class-esb-register-button.php:150
+#: inc/admin/widgets/class-esb-register-button.php:324
+#: inc/admin/widgets/class-esb-related-events.php:375
+#: inc/admin/widgets/class-esb-rsvp.php:416
+#: inc/admin/widgets/class-esb-rsvp.php:638
+#: inc/admin/widgets/class-esb-rsvp.php:791
+#: inc/admin/widgets/class-esb-rsvp.php:932
+#: inc/admin/widgets/class-esb-rsvp.php:1054
+#: inc/admin/widgets/class-esb-rsvp.php:1276
+#: inc/admin/widgets/class-esb-social.php:378
+#: inc/admin/widgets/class-esb-social.php:574
+#: inc/admin/widgets/class-esb-speaker.php:376
+#: inc/admin/widgets/class-esb-speaker.php:451
+#: inc/admin/widgets/class-esb-speaker.php:710
+#: inc/admin/widgets/class-esb-speaker.php:819
+#: inc/admin/widgets/class-esb-speaker.php:1165
+#: inc/admin/widgets/class-esb-sponsor.php:360
+#: inc/admin/widgets/class-esb-sponsor.php:435
+#: inc/admin/widgets/class-esb-sponsor.php:632
+#: inc/admin/widgets/class-esb-tags.php:147
+#: inc/admin/widgets/class-esb-time.php:176
+#: inc/admin/widgets/class-esb-title.php:237
+#: inc/admin/widgets/class-esb-trailer-url.php:192
+#: inc/admin/widgets/class-esb-virtual-event.php:169
+#: inc/admin/widgets/class-esb-weather.php:376
+#: inc/admin/widgets/class-esb-weather.php:451
+#: inc/admin/widgets/class-esb-zoom-event.php:169
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:366
+#: inc/admin/widgets/class-esb-rsvp.php:1326
+msgid "Attendees Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:375
+#: inc/admin/widgets/class-esb-custom-data.php:273
+#: inc/admin/widgets/class-esb-speaker.php:828
+msgid "Name Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:394
+msgid "Title Color Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:405
+#: inc/admin/widgets/class-esb-category.php:227
+#: inc/admin/widgets/class-esb-cost.php:224
+#: inc/admin/widgets/class-esb-faq.php:288
+#: inc/admin/widgets/class-esb-label.php:224
+#: inc/admin/widgets/class-esb-local-time.php:210
+#: inc/admin/widgets/class-esb-location.php:226
+#: inc/admin/widgets/class-esb-location.php:728
+#: inc/admin/widgets/class-esb-more-info.php:224
+#: inc/admin/widgets/class-esb-next-pervious.php:550
+#: inc/admin/widgets/class-esb-organizer.php:223
+#: inc/admin/widgets/class-esb-organizer.php:1192
+#: inc/admin/widgets/class-esb-time.php:224
+msgid "Title Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:418
+msgid "Span Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:426
+msgid "Span Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:437
+msgid "Span Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:449
+msgid "Span Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:461
+#: inc/admin/widgets/class-esb-event-gallery.php:290
+#: inc/admin/widgets/class-esb-event-gallery.php:574
+#: inc/admin/widgets/class-esb-featured-image.php:102
+#: inc/admin/widgets/class-esb-location.php:341
+#: inc/admin/widgets/class-esb-location.php:882
+#: inc/admin/widgets/class-esb-organizer.php:438
+#: inc/admin/widgets/class-esb-organizer.php:933
+#: inc/admin/widgets/class-esb-related-events.php:574
+#: inc/admin/widgets/class-esb-speaker.php:599
+#: inc/admin/widgets/class-esb-speaker.php:1055
+#: inc/admin/widgets/class-esb-sponsor.php:518
+msgid "Image Width"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-attendees.php:484
+#: inc/admin/widgets/class-esb-event-gallery.php:313
+#: inc/admin/widgets/class-esb-event-gallery.php:597
+#: inc/admin/widgets/class-esb-featured-image.php:125
+#: inc/admin/widgets/class-esb-location.php:368
+#: inc/admin/widgets/class-esb-location.php:909
+#: inc/admin/widgets/class-esb-organizer.php:465
+#: inc/admin/widgets/class-esb-organizer.php:960
+#: inc/admin/widgets/class-esb-related-events.php:601
+#: inc/admin/widgets/class-esb-speaker.php:626
+#: inc/admin/widgets/class-esb-speaker.php:1083
+#: inc/admin/widgets/class-esb-sponsor.php:545
+msgid "Image Height"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:41
+msgid "Banner"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:85
+msgid "Banner Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:139
+msgid "Banner Title"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:148
+#: inc/admin/widgets/class-esb-booking.php:814
+#: inc/admin/widgets/class-esb-booking.php:1189
+#: inc/admin/widgets/class-esb-breadcrumbs.php:165
+#: inc/admin/widgets/class-esb-cancellation.php:210
+#: inc/admin/widgets/class-esb-content.php:100
+#: inc/admin/widgets/class-esb-date.php:345
+#: inc/admin/widgets/class-esb-date.php:387
+#: inc/admin/widgets/class-esb-export.php:243
+#: inc/admin/widgets/class-esb-hourly-schedule.php:408
+#: inc/admin/widgets/class-esb-next-pervious.php:395
+#: inc/admin/widgets/class-esb-nxt-prv.php:167
+#: inc/admin/widgets/class-esb-public-download.php:202
+#: inc/admin/widgets/class-esb-public-download.php:314
+#: inc/admin/widgets/class-esb-register-button.php:169
+#: inc/admin/widgets/class-esb-rsvp.php:958
+#: inc/admin/widgets/class-esb-rsvp.php:1182
+#: inc/admin/widgets/class-esb-speaker.php:470
+#: inc/admin/widgets/class-esb-speaker.php:535
+#: inc/admin/widgets/class-esb-sponsor.php:454
+#: inc/admin/widgets/class-esb-title.php:120
+#: inc/admin/widgets/class-esb-trailer-url.php:81
+#: inc/admin/widgets/class-esb-trailer-url.php:90
+#: inc/admin/widgets/class-esb-virtual-event.php:193
+#: inc/admin/widgets/class-esb-zoom-event.php:193
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:156
+#: inc/admin/widgets/class-esb-content.php:108
+#: inc/admin/widgets/class-esb-date.php:353
+#: inc/admin/widgets/class-esb-date.php:395
+#: inc/admin/widgets/class-esb-faq.php:331
+#: inc/admin/widgets/class-esb-next-pervious.php:403
+#: inc/admin/widgets/class-esb-register-button.php:177
+#: inc/admin/widgets/class-esb-rsvp.php:1334
+#: inc/admin/widgets/class-esb-speaker.php:478
+#: inc/admin/widgets/class-esb-speaker.php:543
+#: inc/admin/widgets/class-esb-sponsor.php:462
+#: inc/admin/widgets/class-esb-trailer-url.php:98
+msgid "Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:225
+msgid "Banner Date & Time"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:233
+#: inc/admin/widgets/class-esb-banner.php:479
+msgid "Wrapper Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:244
+#: inc/admin/widgets/class-esb-banner.php:490
+#: inc/admin/widgets/class-esb-related-events.php:416
+msgid "Wrapper Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:257
+#: inc/admin/widgets/class-esb-banner.php:503
+msgid "Wrapper Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:270
+#: inc/admin/widgets/class-esb-banner.php:516
+msgid "Wrapper Border"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:279
+#: inc/admin/widgets/class-esb-banner.php:524
+msgid " Wrapper Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:292
+msgid "Wrapper Box Shadow"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:302
+#: inc/admin/widgets/class-esb-hourly-schedule.php:487
+#: inc/admin/widgets/class-esb-time.php:186
+msgid "Time Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:311
+#: inc/admin/widgets/class-esb-hourly-schedule.php:495
+msgid "Time Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:322
+#: inc/admin/widgets/class-esb-hourly-schedule.php:506
+msgid "Time Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:334
+msgid "Time Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:346
+msgid "Time Icon Size"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:362
+msgid "Time Icon Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:373
+msgid "Time Icon Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:387
+#: inc/admin/widgets/class-esb-date.php:188
+#: inc/admin/widgets/class-esb-date.php:290
+#: inc/admin/widgets/class-esb-related-events.php:523
+msgid "Date Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:395
+#: inc/admin/widgets/class-esb-date.php:298
+#: inc/admin/widgets/class-esb-related-events.php:531
+msgid "Date Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:406
+#: inc/admin/widgets/class-esb-date.php:309
+msgid "Date Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:418
+msgid "Date Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:430
+msgid "Date Icon Size"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:446
+msgid "Date Icon Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:457
+msgid "Date Icon Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:471
+msgid "Banner Location"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:538
+msgid "Location Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:546
+msgid "Location Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:557
+#: inc/admin/widgets/class-esb-category.php:250
+#: inc/admin/widgets/class-esb-category.php:343
+#: inc/admin/widgets/class-esb-cost.php:246
+#: inc/admin/widgets/class-esb-date.php:250
+#: inc/admin/widgets/class-esb-label.php:247
+#: inc/admin/widgets/class-esb-local-time.php:222
+#: inc/admin/widgets/class-esb-location.php:239
+#: inc/admin/widgets/class-esb-location.php:740
+#: inc/admin/widgets/class-esb-more-info.php:247
+#: inc/admin/widgets/class-esb-next-pervious.php:563
+#: inc/admin/widgets/class-esb-social.php:465
+#: inc/admin/widgets/class-esb-speaker.php:962
+#: inc/admin/widgets/class-esb-time.php:247
+#: inc/admin/widgets/class-esb-virtual-event.php:327
+#: inc/admin/widgets/class-esb-zoom-event.php:327
+msgid "Icon Size"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:573
+#: inc/admin/widgets/class-esb-category.php:278
+#: inc/admin/widgets/class-esb-category.php:371
+#: inc/admin/widgets/class-esb-cost.php:274
+#: inc/admin/widgets/class-esb-date.php:278
+#: inc/admin/widgets/class-esb-faq.php:266
+#: inc/admin/widgets/class-esb-label.php:275
+#: inc/admin/widgets/class-esb-local-time.php:250
+#: inc/admin/widgets/class-esb-location.php:262
+#: inc/admin/widgets/class-esb-location.php:764
+#: inc/admin/widgets/class-esb-more-info.php:275
+#: inc/admin/widgets/class-esb-next-pervious.php:591
+#: inc/admin/widgets/class-esb-organizer.php:271
+#: inc/admin/widgets/class-esb-organizer.php:417
+#: inc/admin/widgets/class-esb-organizer.php:720
+#: inc/admin/widgets/class-esb-organizer.php:766
+#: inc/admin/widgets/class-esb-organizer.php:912
+#: inc/admin/widgets/class-esb-rsvp.php:1221
+#: inc/admin/widgets/class-esb-social.php:396
+#: inc/admin/widgets/class-esb-speaker.php:990
+#: inc/admin/widgets/class-esb-time.php:275
+#: inc/admin/widgets/class-esb-virtual-event.php:264
+#: inc/admin/widgets/class-esb-zoom-event.php:264
+msgid "Icon Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-banner.php:584
+msgid "Location Icon Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:42
+msgid "Booking Module"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:85
+msgid "Widget Content Settings"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:94
+msgid "Display ticket price label"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:254
+#: inc/admin/widgets/class-esb-hourly-schedule.php:227
+#: inc/admin/widgets/class-esb-next-pervious.php:220
+#: inc/admin/widgets/class-esb-related-events.php:221
+#: inc/admin/widgets/class-esb-rsvp.php:243
+#: inc/admin/widgets/class-esb-social.php:222
+#: inc/admin/widgets/class-esb-speaker.php:221
+#: inc/admin/widgets/class-esb-weather.php:220
+msgid "Display Title Shape"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:362
+msgid "Booking Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:443
+#: inc/admin/widgets/class-esb-rsvp.php:464
+msgid "Form Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:451
+#: inc/admin/widgets/class-esb-booking.php:868
+#: inc/admin/widgets/class-esb-booking.php:1013
+#: inc/admin/widgets/class-esb-event-gallery.php:166
+#: inc/admin/widgets/class-esb-event-gallery.php:450
+#: inc/admin/widgets/class-esb-public-download.php:111
+#: inc/admin/widgets/class-esb-public-download.php:369
+#: inc/admin/widgets/class-esb-rsvp.php:472
+msgid "Width"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:491
+#: inc/admin/widgets/class-esb-cost.php:286
+#: inc/admin/widgets/class-esb-hourly-schedule.php:700
+#: inc/admin/widgets/class-esb-label.php:288
+#: inc/admin/widgets/class-esb-local-time.php:262
+#: inc/admin/widgets/class-esb-location.php:789
+#: inc/admin/widgets/class-esb-next-pervious.php:604
+#: inc/admin/widgets/class-esb-organizer.php:295
+#: inc/admin/widgets/class-esb-organizer.php:790
+#: inc/admin/widgets/class-esb-rsvp.php:497
+#: inc/admin/widgets/class-esb-time.php:287
+msgid "Label Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:506
+#: inc/admin/widgets/class-esb-cost.php:294
+#: inc/admin/widgets/class-esb-hourly-schedule.php:708
+#: inc/admin/widgets/class-esb-local-time.php:270
+#: inc/admin/widgets/class-esb-location.php:797
+#: inc/admin/widgets/class-esb-next-pervious.php:612
+#: inc/admin/widgets/class-esb-organizer.php:303
+#: inc/admin/widgets/class-esb-organizer.php:798
+#: inc/admin/widgets/class-esb-rsvp.php:505
+#: inc/admin/widgets/class-esb-time.php:295
+msgid "Label Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:525
+msgid "Ticket Name Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:534
+msgid "Tickat Name Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:547
+msgid "Price Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:556
+msgid "Price Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:577
+msgid "Available Tickets Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:586
+#: inc/admin/widgets/class-esb-rsvp.php:532
+msgid "Available Tickets Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:599
+msgid "Available Tickets Number Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:608
+msgid "Available Tickets Number Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:629
+#: inc/admin/widgets/class-esb-rsvp.php:551
+msgid "Message Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:638
+#: inc/admin/widgets/class-esb-rsvp.php:559
+msgid "Message Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:650
+#: inc/admin/widgets/class-esb-rsvp.php:570
+msgid "Message Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:663
+#: inc/admin/widgets/class-esb-rsvp.php:583
+msgid "Fields Spacing"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:672
+msgid "Fields Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:699
+msgid "Fields Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:805
+msgid "Booking Button"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:822
+#: inc/admin/widgets/class-esb-booking.php:967
+#: inc/admin/widgets/class-esb-cancellation.php:218
+#: inc/admin/widgets/class-esb-countdown.php:317
+#: inc/admin/widgets/class-esb-googlemap.php:205
+#: inc/admin/widgets/class-esb-public-download.php:210
+#: inc/admin/widgets/class-esb-public-download.php:322
+#: inc/admin/widgets/class-esb-rsvp.php:678
+#: inc/admin/widgets/class-esb-rsvp.php:819
+#: inc/admin/widgets/class-esb-rsvp.php:1190
+msgid "Text Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:833
+#: inc/admin/widgets/class-esb-booking.php:978
+#: inc/admin/widgets/class-esb-googlemap.php:216
+#: inc/admin/widgets/class-esb-public-download.php:221
+#: inc/admin/widgets/class-esb-public-download.php:333
+#: inc/admin/widgets/class-esb-rsvp.php:689
+#: inc/admin/widgets/class-esb-rsvp.php:830
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:902
+#: inc/admin/widgets/class-esb-booking.php:1047
+#: inc/admin/widgets/class-esb-public-download.php:146
+#: inc/admin/widgets/class-esb-public-download.php:404
+#: inc/admin/widgets/class-esb-register-button.php:210
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:946
+#: inc/admin/widgets/class-esb-rsvp.php:802
+msgid "Back Button"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:955
+msgid "Typography Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1090
+msgid "Checkout Styling"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1099
+msgid "Price Description Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1107
+msgid "Price Description Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1119
+msgid "Amount Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1127
+msgid "Amount Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1139
+msgid "Total Price Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1147
+msgid "Total Price Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1159
+msgid "Gateway Label Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1167
+msgid "Gateway Label Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1180
+#: inc/admin/widgets/class-esb-rsvp.php:949
+msgid "Messages Styling"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1199
+#: inc/admin/widgets/class-esb-rsvp.php:966
+msgid "Error Text Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1210
+#: inc/admin/widgets/class-esb-rsvp.php:977
+msgid "Error Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1221
+#: inc/admin/widgets/class-esb-rsvp.php:988
+msgid "Success Text Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1232
+#: inc/admin/widgets/class-esb-rsvp.php:999
+msgid "Success Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1243
+#: inc/admin/widgets/class-esb-rsvp.php:1010
+msgid "Info Text Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1254
+#: inc/admin/widgets/class-esb-rsvp.php:1021
+msgid "Info Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1302
+#: inc/admin/widgets/class-esb-googlemap.php:227
+#: inc/admin/widgets/class-esb-rsvp.php:592
+#: inc/admin/widgets/class-esb-rsvp.php:700
+#: inc/admin/widgets/class-esb-rsvp.php:841
+msgid "Button Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-booking.php:1316
+#: inc/admin/widgets/class-esb-googlemap.php:239
+#: inc/admin/widgets/class-esb-rsvp.php:604
+#: inc/admin/widgets/class-esb-rsvp.php:712
+#: inc/admin/widgets/class-esb-rsvp.php:853
+msgid "Button Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:37
+msgid "Event Breadcrumbs"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:81
+msgid "Breadcrumbs Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:156
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:173
+#: inc/admin/widgets/class-esb-location.php:466
+#: inc/admin/widgets/class-esb-location.php:1011
+#: inc/admin/widgets/class-esb-more-info.php:296
+#: inc/admin/widgets/class-esb-organizer.php:323
+#: inc/admin/widgets/class-esb-organizer.php:818
+#: inc/admin/widgets/class-esb-tags.php:205
+#: inc/admin/widgets/class-esb-virtual-event.php:201
+#: inc/admin/widgets/class-esb-virtual-event.php:436
+#: inc/admin/widgets/class-esb-zoom-event.php:201
+#: inc/admin/widgets/class-esb-zoom-event.php:436
+msgid "Link Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:184
+#: inc/admin/widgets/class-esb-tags.php:217
+msgid "Hover Link Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:207
+#: inc/admin/widgets/class-esb-breadcrumbs.php:243
+#: inc/admin/widgets/class-esb-virtual-event.php:224
+#: inc/admin/widgets/class-esb-virtual-event.php:287
+#: inc/admin/widgets/class-esb-zoom-event.php:224
+#: inc/admin/widgets/class-esb-zoom-event.php:287
+msgid "padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:220
+msgid "Current Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:256
+msgid "Arrow Size"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-breadcrumbs.php:280
+msgid "Arrow Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cancellation.php:37
+msgid "Event Cancellation"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cancellation.php:81
+msgid "Cancellation Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cancellation.php:89
+#: inc/admin/widgets/class-esb-export.php:165
+#: inc/admin/widgets/class-esb-nxt-prv.php:297
+msgid "Display"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cancellation.php:201
+msgid "Cancellation Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:41
+msgid "Category"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:86
+msgid "Category Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:105
+#: inc/admin/widgets/class-esb-cost.php:104
+#: inc/admin/widgets/class-esb-date.php:104
+#: inc/admin/widgets/class-esb-label.php:104
+#: inc/admin/widgets/class-esb-local-time.php:100
+#: inc/admin/widgets/class-esb-location.php:102
+#: inc/admin/widgets/class-esb-location.php:530
+#: inc/admin/widgets/class-esb-more-info.php:104
+#: inc/admin/widgets/class-esb-organizer.php:100
+#: inc/admin/widgets/class-esb-organizer.php:574
+#: inc/admin/widgets/class-esb-organizer.php:1069
+#: inc/admin/widgets/class-esb-time.php:104
+msgid "Widget Alignment"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:189
+msgid "Category Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:197
+#: inc/admin/widgets/class-esb-cost.php:194
+#: inc/admin/widgets/class-esb-date.php:197
+#: inc/admin/widgets/class-esb-label.php:194
+#: inc/admin/widgets/class-esb-more-info.php:194
+#: inc/admin/widgets/class-esb-tags.php:165
+#: inc/admin/widgets/class-esb-time.php:194
+msgid "Show Title"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:239
+#: inc/admin/widgets/class-esb-cost.php:236
+#: inc/admin/widgets/class-esb-date.php:239
+#: inc/admin/widgets/class-esb-label.php:236
+#: inc/admin/widgets/class-esb-more-info.php:236
+#: inc/admin/widgets/class-esb-time.php:236
+msgid "Show Icon"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:291
+msgid "Category Link Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:299
+msgid "Category Link Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:310
+msgid "Category Link Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:321
+msgid "Category Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:333
+msgid "Show Link Icon"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:382
+#: inc/admin/widgets/class-esb-social.php:407
+#: inc/admin/widgets/class-esb-speaker.php:1001
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-category.php:393
+#: inc/admin/widgets/class-esb-label.php:308
+#: inc/admin/widgets/class-esb-location.php:183
+#: inc/admin/widgets/class-esb-location.php:610
+#: inc/admin/widgets/class-esb-organizer.php:180
+#: inc/admin/widgets/class-esb-organizer.php:654
+#: inc/admin/widgets/class-esb-organizer.php:1149
+msgid "Labels Wrapper Spacing"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-content.php:44
+msgid "Content"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-content.php:91
+#: inc/admin/widgets/class-esb-faq.php:323
+#: inc/admin/widgets/class-esb-hourly-schedule.php:453
+msgid "Content Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-content.php:214
+msgid "Show Load More"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cost.php:41
+msgid "Cost"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cost.php:85
+msgid "Cost Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cost.php:186
+msgid "Cost Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cost.php:305
+#: inc/admin/widgets/class-esb-date.php:406
+#: inc/admin/widgets/class-esb-local-time.php:281
+#: inc/admin/widgets/class-esb-more-info.php:318
+#: inc/admin/widgets/class-esb-next-pervious.php:623
+#: inc/admin/widgets/class-esb-time.php:306
+msgid "Label Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-cost.php:317
+#: inc/admin/widgets/class-esb-date.php:321
+#: inc/admin/widgets/class-esb-local-time.php:293
+#: inc/admin/widgets/class-esb-more-info.php:330
+#: inc/admin/widgets/class-esb-time.php:363
+msgid "Label Wrapper Spacing"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:35
+msgid "Countdown"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:76
+msgid "Countdown Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:151
+msgid "Plain Style Inner Conatiner"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:214
+msgid "Countdown Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:223
+msgid "Counter Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:231
+msgid "Counter Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:242
+msgid "Counter Background"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:247
+msgid ""
+"If you use the \"Flip Style\" countdown style you can set background color "
+"for flipper"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:254
+msgid "Counter Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:267
+msgid "Counter label Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:275
+msgid "Counter label Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:286
+msgid "Counter label Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:300
+msgid "Ongoing and Finished"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-countdown.php:309
+msgid "Text Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:41
+msgid "Custom Data"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:85
+msgid "Event Data Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:160
+msgid "Event Data Items"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:168
+msgid "Item Width"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:264
+msgid "Event Data Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:281
+#: inc/admin/widgets/class-esb-speaker.php:837
+msgid "Name Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:292
+#: inc/admin/widgets/class-esb-speaker.php:848
+msgid "Name Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:304
+#: inc/admin/widgets/class-esb-speaker.php:860
+msgid "Name Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:318
+#: inc/admin/widgets/class-esb-location.php:845
+msgid "Value Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:326
+#: inc/admin/widgets/class-esb-location.php:856
+msgid "Value Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:337
+#: inc/admin/widgets/class-esb-location.php:868
+msgid "Value Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:349
+msgid "Value Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:363
+msgid "Link Typography (value)"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:371
+msgid "Link Color (value)"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-custom-data.php:382
+msgid "Hover Link Color (value)"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-date.php:41
+msgid "Date"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-date.php:85
+msgid "Date Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-date.php:208
+msgid "Date Label Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-date.php:216
+msgid "Date Label Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-date.php:227
+msgid "Date Label Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-date.php:336
+msgid "Ongoing Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-date.php:378
+msgid "Expired Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:37
+msgid "Gallery"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:81
+msgid "Gallery Image Widget Wrapper"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:158
+msgid "Gallery Image List Wrapper"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:189
+#: inc/admin/widgets/class-esb-event-gallery.php:473
+msgid "Height"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:282
+msgid "Gallery Image List"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:405
+#: inc/admin/widgets/class-esb-event-gallery.php:690
+#: inc/admin/widgets/class-esb-featured-image.php:245
+msgid "Overlay Style"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:414
+#: inc/admin/widgets/class-esb-event-gallery.php:698
+#: inc/admin/widgets/class-esb-featured-image.php:253
+#: inc/admin/widgets/class-esb-googlemap.php:161
+msgid "Transition"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:432
+#: inc/admin/widgets/class-esb-event-gallery.php:716
+#: inc/admin/widgets/class-esb-featured-image.php:271
+msgid "Hover Overlay Style"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:442
+msgid "Gallery Image Wrapper"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-event-gallery.php:566
+msgid "Gallery Image"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:36
+msgid "Export"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:80
+msgid "Export Module Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:155
+msgid "Export Elements"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:169
+#: inc/admin/widgets/class-esb-nxt-prv.php:301
+msgid "table-cell"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:234
+msgid "Export Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:251
+#: inc/admin/widgets/class-esb-nxt-prv.php:175
+msgid "Button Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:263
+#: inc/admin/widgets/class-esb-nxt-prv.php:186
+msgid "Hover Button Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:274
+#: inc/admin/widgets/class-esb-nxt-prv.php:197
+msgid "Button Background"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-export.php:286
+#: inc/admin/widgets/class-esb-nxt-prv.php:208
+msgid "Button Hover Background"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:34
+msgid "FAQ"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:80
+msgid "FAQ Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:155
+msgid "FAQs Item Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:174
+msgid " Item Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:186
+msgid " Item Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:255
+#: inc/admin/widgets/class-esb-related-events.php:562
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:277
+msgid "Hover Icon Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:300
+#: inc/admin/widgets/class-esb-hourly-schedule.php:686
+#: inc/admin/widgets/class-esb-organizer.php:235
+msgid "Title Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:314
+msgid "FAQ Items Content"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-faq.php:342
+#: inc/admin/widgets/class-esb-register-button.php:188
+#: inc/admin/widgets/class-esb-rsvp.php:1346
+#: inc/admin/widgets/class-esb-speaker.php:489
+#: inc/admin/widgets/class-esb-speaker.php:554
+#: inc/admin/widgets/class-esb-sponsor.php:473
+#: inc/admin/widgets/class-esb-trailer-url.php:109
+msgid "Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-featured-image.php:37
+msgid "Featured Image"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-featured-image.php:81
+msgid "Featured Image Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-featured-image.php:89
+msgid "Image Dimension"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-featured-image.php:91
+msgid ""
+"Crop the original image size to any custom size. Set custom width or height "
+"to keep the original size ratio."
+msgstr ""
+
+#: inc/admin/widgets/class-esb-googlemap.php:38
+msgid "MEC Google Map"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-googlemap.php:80
+msgid "Google Map Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-googlemap.php:188
+msgid "Direction Button"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-googlemap.php:197
+#: inc/admin/widgets/class-esb-rsvp.php:670
+#: inc/admin/widgets/class-esb-rsvp.php:811
+msgid "Button Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-googlemap.php:251
+#: inc/admin/widgets/class-esb-register-button.php:246
+#: inc/admin/widgets/class-esb-rsvp.php:724
+#: inc/admin/widgets/class-esb-rsvp.php:865
+msgid "Button Width"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-googlemap.php:278
+#: inc/admin/widgets/class-esb-register-button.php:274
+msgid "Button Height"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-googlemap.php:301
+#: inc/admin/widgets/class-esb-rsvp.php:747
+#: inc/admin/widgets/class-esb-rsvp.php:888
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-googlemap.php:312
+#: inc/admin/widgets/class-esb-rsvp.php:758
+#: inc/admin/widgets/class-esb-rsvp.php:899
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:37
+msgid "Hourly Schedule"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:269
+#: inc/admin/widgets/class-esb-speaker.php:256
+msgid "Title Shape Alignment"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:324
+msgid "Hourly Schedule Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:399
+msgid "Day Title Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:461
+msgid "Details Box Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:473
+msgid "Details Box Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:520
+msgid "Details Title Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:528
+msgid "Details Title Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:539
+msgid "Details Title Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:553
+#: inc/admin/widgets/class-esb-location.php:490
+#: inc/admin/widgets/class-esb-location.php:1036
+#: inc/admin/widgets/class-esb-organizer.php:346
+#: inc/admin/widgets/class-esb-organizer.php:841
+#: inc/admin/widgets/class-esb-speaker.php:918
+msgid "Description Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:561
+#: inc/admin/widgets/class-esb-location.php:498
+#: inc/admin/widgets/class-esb-location.php:1044
+#: inc/admin/widgets/class-esb-organizer.php:354
+#: inc/admin/widgets/class-esb-organizer.php:849
+#: inc/admin/widgets/class-esb-speaker.php:927
+msgid "Description Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:572
+#: inc/admin/widgets/class-esb-speaker.php:938
+msgid "Description Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:585
+msgid "Map Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:596
+msgid "Map Width"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:622
+msgid "Speakers Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:630
+msgid "Box Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:641
+#: inc/admin/widgets/class-esb-weather.php:405
+msgid "Box Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:653
+#: inc/admin/widgets/class-esb-weather.php:417
+msgid "Box Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:719
+msgid "Label Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-hourly-schedule.php:730
+#: inc/admin/widgets/class-esb-label.php:296
+msgid "Label Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-label.php:41
+msgid "Labels"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-label.php:85
+msgid "Labels Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-label.php:186
+msgid "Labels Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-local-time.php:37
+msgid "Local Time"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-local-time.php:81
+msgid "Local Time Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-local-time.php:182
+msgid "Local Time Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:39
+msgid "Locations"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:83
+msgid "Location Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:198
+msgid "Location"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:275
+msgid "Location Name Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:283
+msgid "Location Name Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:295
+msgid "Location Name Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:309
+msgid "Location Address Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:317
+msgid "Location Address Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:328
+msgid "Location Address Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:402
+#: inc/admin/widgets/class-esb-location.php:943
+msgid "Image Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:414
+#: inc/admin/widgets/class-esb-location.php:955
+msgid "Image Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:457
+#: inc/admin/widgets/class-esb-location.php:1000
+#: inc/admin/widgets/class-esb-more-info.php:288
+#: inc/admin/widgets/class-esb-organizer.php:315
+#: inc/admin/widgets/class-esb-organizer.php:810
+#: inc/admin/widgets/class-esb-virtual-event.php:428
+#: inc/admin/widgets/class-esb-zoom-event.php:428
+msgid "Link Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:477
+#: inc/admin/widgets/class-esb-location.php:1023
+#: inc/admin/widgets/class-esb-organizer.php:334
+#: inc/admin/widgets/class-esb-organizer.php:829
+msgid "Link HoverColor"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:511
+msgid "Other Location Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:625
+msgid "Additional Location Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:700
+msgid "Other Location"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:776
+msgid "Label Box Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:808
+msgid "Label Icon Size"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-location.php:832
+msgid "Label Icon Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-more-info.php:41
+msgid "More Info"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-more-info.php:85
+msgid "More Info Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-more-info.php:186
+msgid "More Info Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-more-info.php:307
+#: inc/admin/widgets/class-esb-virtual-event.php:447
+#: inc/admin/widgets/class-esb-zoom-event.php:447
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:37
+msgid "Next Event"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:311
+msgid "Next Events Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:386
+msgid "Next Event Button Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:425
+msgid "Color Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:436
+#: inc/admin/widgets/class-esb-rsvp.php:1243
+msgid "Background Color Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:485
+msgid "Date & Time"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:493
+msgid "Date & Time Box Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:505
+msgid "Date & Time Box Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-next-pervious.php:539
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-nxt-prv.php:37
+msgid "Next/Previous Events"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-nxt-prv.php:81
+msgid "Next / Previous Events Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-nxt-prv.php:158
+msgid "Next & Previous Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-nxt-prv.php:267
+#: inc/admin/widgets/class-esb-speaker.php:720
+#: inc/admin/widgets/class-esb-sponsor.php:642
+msgid "Border Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-nxt-prv.php:275
+#: inc/admin/widgets/class-esb-speaker.php:729
+#: inc/admin/widgets/class-esb-sponsor.php:651
+msgid "Border Radius Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-nxt-prv.php:289
+msgid "Next & Previous Elements"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:37
+msgid "Organizers"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:81
+#: inc/admin/widgets/class-esb-organizer.php:555
+msgid "Organizer Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:195
+msgid "Organizer Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:247
+#: inc/admin/widgets/class-esb-organizer.php:394
+#: inc/admin/widgets/class-esb-organizer.php:697
+#: inc/admin/widgets/class-esb-organizer.php:742
+#: inc/admin/widgets/class-esb-organizer.php:889
+msgid "Icons Size"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:282
+#: inc/admin/widgets/class-esb-organizer.php:777
+msgid "Icon Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:367
+#: inc/admin/widgets/class-esb-organizer.php:670
+msgid "Organizer Icon"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:375
+#: inc/admin/widgets/class-esb-organizer.php:678
+#: inc/admin/widgets/class-esb-organizer.php:870
+msgid "Display Widget Icon"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:430
+msgid "Organizer Image Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:734
+msgid "Other Organizer Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:862
+msgid "Other Organizer Icon"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:925
+msgid "Other Organizer Image Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:1050
+msgid "Other Organizer Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:1164
+msgid "Additional Organizer Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:1204
+msgid "Additional Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:1215
+msgid "Additional Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:1227
+msgid "Additional Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:1240
+msgid "Additional Border"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:1248
+msgid "Additional Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-organizer.php:1261
+msgid "Additional Box Shadow"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-public-download.php:38
+msgid "Public Download"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-public-download.php:79
+msgid "Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-public-download.php:193
+msgid "Description"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-public-download.php:305
+msgid "Download Button"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-qr.php:35
+msgid "QR Code"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-qr.php:79
+msgid "QR Code Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-register-button.php:41
+#: inc/admin/widgets/class-esb-register-button.php:160
+msgid "Register Button"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-register-button.php:85
+msgid "Register Button Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:37
+msgid "Related Events"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:310
+msgid "Related Events Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:385
+msgid "Related Items Settings"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:393
+msgid "Item Background"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:404
+msgid "Item Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:429
+msgid "Content Background"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:441
+#: inc/admin/widgets/class-esb-related-events.php:629
+msgid "Content Border"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:449
+msgid "Content Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:462
+msgid "Content Box Shadow"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:470
+msgid "Content Width"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:497
+msgid "Content Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:509
+msgid "Content Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:637
+msgid "Image Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-related-events.php:650
+msgid "Image Box Shadow"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:42
+msgid "RSVP"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:351
+msgid "RSVP Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:524
+msgid "Maximum Attendees Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:661
+msgid "RSVP Button"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1098
+msgid "Answers Styling"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1106
+msgid "Active - Text Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1117
+msgid "Active - Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1129
+msgid "Active - Border"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1137
+msgid "Active - Icon Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1148
+msgid "Active - Icon Color Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1159
+msgid "Active - Background Color Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1171
+#: inc/admin/widgets/class-esb-rsvp.php:1255
+msgid "Border hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-rsvp.php:1232
+msgid "Icon Color Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-social.php:39
+msgid "Social Share"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-social.php:313
+msgid "Social Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-social.php:388
+msgid "Social Networks"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-social.php:419
+msgid "Icon Width"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-social.php:442
+msgid "Icon height"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-social.php:492
+msgid "Icon svg"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-social.php:550
+msgid "Border Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:37
+msgid "Speakers"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:311
+msgid "Speaker Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:386
+msgid "Speakers Item Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:461
+msgid "Speaker Name"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:526
+msgid "Speaker Job"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:591
+msgid "Speaker Image"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:742
+#: inc/admin/widgets/class-esb-sponsor.php:664
+msgid "Box Shadow Hover"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:752
+msgid "Speaker Popup"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:873
+msgid "Job Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:882
+msgid "Job Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:893
+msgid "Job Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:905
+msgid "Job Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:950
+msgid "Description Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:1012
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:1023
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-speaker.php:1173
+msgid "Overlay  Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-sponsor.php:37
+msgid "Sponsors"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-sponsor.php:295
+msgid "Sponsor Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-sponsor.php:370
+msgid "Sponsors Item Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-sponsor.php:445
+msgid "Sponsor Name"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-sponsor.php:510
+msgid "Sponsor Image"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:36
+msgid "Tags"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:80
+msgid "Tags Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:157
+#: inc/admin/widgets/class-esb-tags.php:197
+msgid "Tags Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:228
+msgid "Tags Background Color "
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:239
+msgid "Tags Hover Background Color "
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:251
+msgid "Tags Border"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:261
+msgid "Tags Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:273
+msgid "Tags Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-tags.php:286
+msgid "Tags Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-time.php:41
+msgid "Time"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-time.php:85
+msgid "Time Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-time.php:320
+msgid "Time Note Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-time.php:328
+msgid "Time Note Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-time.php:339
+msgid "Time Note Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-time.php:351
+msgid "Time Note Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:37
+msgid "Title"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:81
+msgid "General"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:89
+msgid "Html Tag"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:92
+msgid "H1"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:93
+msgid "H2"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:94
+msgid "H3"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:95
+msgid "H4"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:96
+msgid "H5"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:97
+msgid "H6"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:98
+msgid "Div"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:99
+msgid "Paragraph"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:100
+msgid "Span"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-title.php:140
+msgid "Hover Title Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-trailer-url.php:37
+msgid "Trailer Url"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:37
+msgid "Virtual Event Details"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:81
+msgid "Virtual Event Type"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:89
+#: inc/admin/widgets/class-esb-zoom-event.php:89
+msgid "Select Widget Style"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:93
+#: inc/admin/widgets/class-esb-zoom-event.php:93
+msgid "Default Style"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:94
+#: inc/admin/widgets/class-esb-zoom-event.php:94
+msgid "Under The Content Style"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:104
+msgid "Virtual Event Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:179
+#: inc/admin/widgets/class-esb-zoom-event.php:179
+msgid "Default Style Settings"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:353
+#: inc/admin/widgets/class-esb-zoom-event.php:353
+msgid "Under The Content Style Settings"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:366
+#: inc/admin/widgets/class-esb-zoom-event.php:366
+msgid "Items Margin"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:378
+#: inc/admin/widgets/class-esb-zoom-event.php:378
+msgid "Items Padding"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:391
+#: inc/admin/widgets/class-esb-zoom-event.php:391
+msgid "Items Border"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:399
+#: inc/admin/widgets/class-esb-zoom-event.php:399
+msgid "Items Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:412
+#: inc/admin/widgets/class-esb-zoom-event.php:412
+msgid "Last Item Border"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:466
+#: inc/admin/widgets/class-esb-zoom-event.php:466
+msgid "Password Label Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:474
+#: inc/admin/widgets/class-esb-zoom-event.php:474
+msgid "Password Label Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:486
+#: inc/admin/widgets/class-esb-zoom-event.php:486
+msgid "Password Value Typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:494
+#: inc/admin/widgets/class-esb-zoom-event.php:494
+msgid "Password Value Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:534
+msgid ""
+"To show this widget, you need to set \"Virtual Event\" Data for your latest "
+"event."
+msgstr ""
+
+#: inc/admin/widgets/class-esb-virtual-event.php:536
+msgid "How to set up virtual event"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:36
+msgid "Weather"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:311
+msgid "Weather Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:386
+msgid "Weather Module Styles"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:394
+msgid "Weather Background Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:459
+msgid "Condition Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:472
+msgid "Condition typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:480
+msgid "Temp Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:493
+msgid "Temp typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:501
+msgid "More Details Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:514
+msgid "More Details typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:522
+msgid "More Details Span Color"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-weather.php:534
+msgid "More Details Span typography"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-zoom-event.php:37
+msgid "Zoom Details"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-zoom-event.php:81
+msgid "Zoom Event Type"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-zoom-event.php:104
+msgid "Zoom Event Box"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-zoom-event.php:505
+msgid "Video Border Radius"
+msgstr ""
+
+#: inc/admin/widgets/class-esb-zoom-event.php:546
+msgid ""
+"To show this widget, you need to set \"Zoom Information\" for your latest "
+"event."
+msgstr ""
+
+#: inc/admin/widgets/class-esb-zoom-event.php:548
+msgid "How to set up Zoom event"
+msgstr ""
+
+#: inc/core/controller/class-esbaddonupdateactivation.php:254
+msgid ""
+"Activation failed. Please check your purchase code or license type."
+"<br><b>Note: Your purchase code should match your licesne type.</b>"
+msgstr ""
+
+#: inc/core/controller/class-esbaddonupdateactivation.php:254
+msgid "Troubleshooting"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:118
+msgid ""
+" is not working because you need to install latest version of Modern Events "
+"Calendar plugin"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:119
+#: inc/core/controller/class-requirements.php:128
+msgid "Minimum version required"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:120
+msgid "Update Modern Events Calendar Now"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:127
+msgid ""
+" is not working because you need to install latest version of Modern Events "
+"Calendar Lite plugin"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:129
+msgid "Update Modern Events Calendar Lite Now"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:150
+#: inc/core/controller/class-requirements.php:156
+#: inc/core/controller/class-requirements.php:161
+#: inc/core/controller/class-requirements.php:185
+#: inc/core/controller/class-requirements.php:189
+msgid "Thanks for installing the "
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:150
+msgid ""
+" requires the Modern Events Calendar Lite plugin to work. Please install it "
+"to continue."
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:151
+msgid "Install Modern Events Calendar Lite"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:156
+msgid ""
+" requires the Modern Events Calendar plugin to work. Please activate it to "
+"continue."
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:157
+msgid "Activate Modern Events Calendar"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:161
+msgid ""
+" irequires the Modern Events Calendar Lite plugin to work. Please activate "
+"it to continue."
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:162
+msgid "Activate Modern Events Calendar Lite"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:185
+msgid " requires the Elementor plugin to work. Please activate it to continue."
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:186
+msgid "Activate Elementor"
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:189
+msgid " requires the Elementor plugin to work. Please install it to continue."
+msgstr ""
+
+#: inc/core/controller/class-requirements.php:190
+msgid "Install Elementor"
+msgstr ""
+
+#: inc/core/controller/puc/Puc/v4p11/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: inc/core/controller/puc/Puc/v4p11/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: inc/core/controller/puc/Puc/v4p11/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: inc/core/controller/puc/Puc/v4p11/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: inc/core/controller/puc/Puc/v4p11/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: inc/core/controller/puc/Puc/v4p11/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: inc/core/controller/puc/Puc/v4p11/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: inc/core/controller/puc/Puc/v4p11/Vcs/PluginUpdateChecker.php:100
+msgid "There is no changelog available."
+msgstr ""
+
+#: inc/frontend/views/single-mec_esb.php:15
+msgid ""
+"This is not the right place to check. Please open the single event page for "
+"seeing the result."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Elementor Single Builder for MEC"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://webnus.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Use this Add-on to build your form in Elementor Editor. It allows you to use "
+"many different type of fields and rearrange them by drag and drop and modify "
+"their styles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webnus"
+msgstr ""
